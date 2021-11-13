@@ -24,6 +24,6 @@ jobs:
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v2
         with:
-          path: "lp-stocks/requirements.txt"
+          path: "requirements.txt"
       - name: execute py script
         run: python3 main.py
