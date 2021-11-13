@@ -26,4 +26,4 @@ jobs:
         with:
           path: "requirements.txt"
       - name: execute py script
-        run: python3 scripts/main.py
+        run: python3 workflows/scripts/main.py
