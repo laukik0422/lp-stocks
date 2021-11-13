@@ -1,2 +1,2 @@
 # lp-stocks
-Hello World
+Basic stock data collection
